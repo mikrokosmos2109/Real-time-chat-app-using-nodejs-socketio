@@ -1,5 +1,4 @@
 ## Real-time-chat-app-using-nodejs-socket io
-### Inspiration from [This Video](https://youtu.be/jD7FnbI76Hg)
 
 
 ### TECH STACK USED
